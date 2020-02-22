@@ -1,0 +1,2 @@
+# Photo-movie-player-visual-studio-C-
+This software is a simple "photo movie player" system, which supports front-end choose background music (which could be listened to), multiple photos are automatically displayed one by one. Interval background bmp files stored in the background. The user can replace it with the bmp file of the same name. The interval between adjacent photos can be modified in the background, and playback can be paused during playback.
